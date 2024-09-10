@@ -1,0 +1,23 @@
+p{
+    font-family: "Courier New";
+    color: aliceblue;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+    font-family:"Copperplate", Fantasy, serif;
+    font-size: 12pt;
+}
+
+h1{
+    font-size: 70px;
+    color: red;
+}
+h2{
+    font-size: 40px;
+    color: greenyellow;
+}
+img{
+    width: 1000px;
+}
