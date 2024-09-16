@@ -1,0 +1,81 @@
+html{
+    background-color: azure;
+    color: navy;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 24px;
+    margin: 15px;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(128, 0, 0);
+}
+
+h2{
+    font-size: 20px;
+    color: rgb(128, 0, 0);
+    opacity: 80%;
+}
+
+h3{
+    font-size: 35px;
+    color: rgb(128, 0, 0);
+    opacity: 70%;
+    margin-bottom: 15px;
+    margin-top: 70px;
+}
+
+h4{
+    font-size: 30px;
+    color: navy;
+    opacity: 30%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p.fontweightnormal{
+    font-weight: normal;
+}
+
+p.fontweightbold{
+    font-weight: bold;
+}
+
+p.fontstyleitalic{
+    font-style: italic;
+}
+
+p.letterspacing3em{
+    letter-spacing: .3em;
+}
+
+p.textdecorunderline{
+    text-decoration: underline;
+}
+
+
+p.textdecoroverline{
+    text-decoration: overline;
+}
+
+p.textdecorlinethrough{
+    text-decoration: line-through;
+}
+
+p.transformuppercase{
+    text-transform: uppercase;
+}
+
+p. transformlowercase{
+    text-transform: lowercase;
+}
+
+p.transformcapitalize{
+    text-transform: capitalize;
+}
