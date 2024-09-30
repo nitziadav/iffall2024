@@ -1,0 +1,29 @@
+html{
+    color: black;
+    background-color:rgb(242, 211, 211);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12pt;
+}
+
+h1{
+    text-align: center;
+}
+img{
+    border: 20px ;
+    display: block;
+    margin: auto;
+    max-height: 350px;
+}
+
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.recipe-info{
+    font-size: smaller;
+    opacity: 70%;
+}
+
+.instructions li{
+    margin-bottom: 5%;
+}
